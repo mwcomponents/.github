@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T09:03:49.803Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Ur3X3h8qEiVDTFB0Xx8W" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T09:05:26.117Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="AXGjyFZUv3fREuO82pSs" version="24.4.0" type="github">
   <diagram name="Page-1" id="0rQ8l_uULcwl3JOyv1s8">
     <mxGraphModel dx="1669" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="Dd-oAojNrdIVEVdC_ifS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=70;exitDy=80;exitPerimeter=0;startArrow=classic;startFill=1;" parent="Dd-oAojNrdIVEVdC_ifS-22" source="Dd-oAojNrdIVEVdC_ifS-6" target="Dd-oAojNrdIVEVdC_ifS-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dd-oAojNrdIVEVdC_ifS-6" value="Configurator" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="Dd-oAojNrdIVEVdC_ifS-22" vertex="1">
+        <mxCell id="Dd-oAojNrdIVEVdC_ifS-6" value="Part&lt;div&gt;Configurator&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="Dd-oAojNrdIVEVdC_ifS-22" vertex="1">
           <mxGeometry x="40" y="95" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Dd-oAojNrdIVEVdC_ifS-7" value="AWS S3 Document Storage" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" parent="Dd-oAojNrdIVEVdC_ifS-22" vertex="1">
