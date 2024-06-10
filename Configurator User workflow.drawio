@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T12:40:18.197Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="iQpGARAoumyZyFNZ7VjH" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T12:42:41.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="BRnBfr6UeSSTunPW5Dwe" version="24.4.0" type="github">
   <diagram name="Page-1" id="PDX80522k_wSp2mnQdiv">
     <mxGraphModel dx="1418" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="r9Pb4lbQBRwPS19WzHoZ-6" value="New Configuration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d8thT-4LhfnDp6k5CLJ8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9Pb4lbQBRwPS19WzHoZ-9" target="d8thT-4LhfnDp6k5CLJ8-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r9Pb4lbQBRwPS19WzHoZ-9" value="Done - Go to form" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="630" y="700" width="120" height="60" as="geometry" />
@@ -73,10 +76,10 @@
         <mxCell id="d8thT-4LhfnDp6k5CLJ8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d8thT-4LhfnDp6k5CLJ8-3" target="d8thT-4LhfnDp6k5CLJ8-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d8thT-4LhfnDp6k5CLJ8-3" value="Enter or generate part ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d8thT-4LhfnDp6k5CLJ8-3" value="Enter Part ID or it is generated based on config." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="810" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d8thT-4LhfnDp6k5CLJ8-4" value="Display additional Configuration data" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="d8thT-4LhfnDp6k5CLJ8-4" value="Display additional Configuration data" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="810" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d8thT-4LhfnDp6k5CLJ8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="d8thT-4LhfnDp6k5CLJ8-6" target="d8thT-4LhfnDp6k5CLJ8-8">
@@ -85,20 +88,23 @@
         <mxCell id="d8thT-4LhfnDp6k5CLJ8-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d8thT-4LhfnDp6k5CLJ8-6" target="d8thT-4LhfnDp6k5CLJ8-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d8thT-4LhfnDp6k5CLJ8-6" value="Enter data for each configuration job step" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="d8thT-4LhfnDp6k5CLJ8-6" value="Enter data for each configuration job step" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1010" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d8thT-4LhfnDp6k5CLJ8-8" value="Utilize Operation Types from Visual to pre-populate costs" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="d8thT-4LhfnDp6k5CLJ8-8" value="Utilize Operation Types from Visual to pre-populate costs" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1010" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d8thT-4LhfnDp6k5CLJ8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d8thT-4LhfnDp6k5CLJ8-10" target="d8thT-4LhfnDp6k5CLJ8-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d8thT-4LhfnDp6k5CLJ8-10" value="Each Configuration Job generates a new operation" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="d8thT-4LhfnDp6k5CLJ8-10" value="Each Configuration Job generates a new operation" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1210" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d8thT-4LhfnDp6k5CLJ8-12" value="Create Quote/Engineering Master" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="d8thT-4LhfnDp6k5CLJ8-12" value="Create Quote/Engineering Master" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1210" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d8thT-4LhfnDp6k5CLJ8-15" value="See UI Repo branch and video for further explanation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="390" width="270" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
